@@ -1,0 +1,16 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["off"],
+    "no-unused-vars": "off",
+    "no-console": "off",
+    "no-shadow": "off",
+    "no-restricted-globals": "off",
+    "no-use-before-define": "off",
+    "no-restricted-syntax": "off",
+    "guard-for-in": "off",
+    "no-underscore-dangle": "off",
+    "no-param-reassign": "off"
+  }
+}
